@@ -1,0 +1,16 @@
+PODS:
+  - AVPageViewController (0.0.1)
+
+DEPENDENCIES:
+  - AVPageViewController (from `../`)
+
+EXTERNAL SOURCES:
+  AVPageViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AVPageViewController: dd54f63818f2879530f750000f72fb5bdb40dcc3
+
+PODFILE CHECKSUM: 86ce1e9c7da3829474ebfca6df27bb00f4588bb1
+
+COCOAPODS: 1.15.0
